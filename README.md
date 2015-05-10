@@ -1,3 +1,19 @@
+## README
+
+1. copy (or fork and clone) the files in your working directory
+2. create a folder called ./data in your wd.
+3. download the zip file from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip and save it in the  <your_wd_path>/data folder previously created
+4. unzip the zip file here, so that you got <your_wd_path>/data/household_power_consumption.txt;
+5. source the script files: 
+    * plot1.R
+    * plot2.R
+    * plot3.R
+    * plot4.R
+
+note: plot scripts uses the common loader.R file to load data. 
+
+##-----------original README.md file------------------
+
 ## Introduction
 
 This assignment uses data from
